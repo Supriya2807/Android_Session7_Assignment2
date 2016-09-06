@@ -1,0 +1,2 @@
+# Android_Session7_Assignment2
+AutoCompleteTextBox using Sqlite
